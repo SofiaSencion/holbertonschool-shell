@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -la > vi ls_cwd_content
+ls -la > vim ls_cwd_content
