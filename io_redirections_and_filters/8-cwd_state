@@ -1,0 +1,2 @@
+#!/bin/bash
+ls -la > vi ls_cwd_content
